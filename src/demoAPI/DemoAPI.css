@@ -1,0 +1,42 @@
+/* 
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+   
+  }
+  
+  td, th {
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  */
+
+  .flex-container {
+    display: flex;
+    justify-content:space-around;
+    margin: 50px;
+    
+  }
+
+  .flex-container > div {
+    background-color: #f1f1f1;
+
+    font-size: 30px;
+    width:700px;
+  }
+
+  .textField{
+    
+   padding: 5px;
+   margin-right: 20px;
+  
+  }
+  
+  .input{
+    margin-top: 50px;
+    margin-left: 180px;
+  }
+  
